@@ -18,6 +18,7 @@ In pot:
 - Add wather
 - Add pasta
 - Boil for 15 minutes
+- Add salt
 
 In pan:
 - Pour in olive oil
