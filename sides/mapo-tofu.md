@@ -4,6 +4,8 @@
 
 ## Ingredients
 
+---
+
 - 2 tablespoons Sichuan peppercorns, divided (see notes)
 - 1/4 cup vegetable oil
 - 1 teaspoon cornstarch
@@ -19,4 +21,8 @@
 - 1/4 cup roasted chili oil (see note)
 - 1/4 cup finely sliced scallion greens
 
+## Instructions
+
 ---
+
+TODO: create step-by-step instruction
