@@ -6,7 +6,7 @@
 - Horned Melon (Kiwano)
 
 
-## Preparation
+## Instructions
 1. Peel Kiwano and blend it 
 2. Mix all ingredients together
 3. Store in freezer for 10 minutes
